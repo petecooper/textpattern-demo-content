@@ -28,28 +28,24 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | xs | thumbnail | `@1x` | 50px | 80% |
 | xs | thumbnail | `@2x` | 100px | 80% |
 | xs | thumbnail | `@3x` | 150px | 80% |
-
 | sm | base | `@1x` | 250px | 80% |
 | sm | base | `@2x` | 500px | 80% |
 | sm | base | `@3x` | 750px | 80% |
 | sm | thumbnail | `@1x` | 50px | 80% |
 | sm | thumbnail | `@2x` | 100px | 80% |
 | sm | thumbnail | `@3x` | 150px | 80% |
-
 | md | base | `@1x` | 500px | 80% |
 | md | base | `@2x` | 1000px | 80% |
 | md | base | `@3x` | 1500px | 80% |
 | md | thumbnail | `@1x` | 100px | 80% |
 | md | thumbnail | `@2x` | 200px | 80% |
 | md | thumbnail | `@3x` | 300px | 80% |
-
 | lg | base | `@1x` | 1000px | 80% |
 | lg | base | `@2x` | 2000px | 80% |
 | lg | base | `@3x` | 3000px | 80% |
 | lg | thumbnail | `@1x` | 200px | 80% |
 | lg | thumbnail | `@2x` | 400px | 80% |
 | lg | thumbnail | `@3x` | 600px | 80% |
-
 | xl | base | `@1x` | 2000px | 80% |
 | xl | base | `@2x` | 4000px | 80% |
 | xl | base | `@3x` | 6000px | 80% |
