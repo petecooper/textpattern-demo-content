@@ -13,8 +13,9 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### Image types
 
-| File type | Category | Size | ID range | Count / (target) |
-|---|---|---|---|---|
+| File type | Category | Size | Set | ID range | Count / (target) |
+|---|---|---|---|---|---|
+| JPG | Photo | sm | 1GB | 1000 - 1099 | – / 25 |
 
 ### Raster image specifications
 
