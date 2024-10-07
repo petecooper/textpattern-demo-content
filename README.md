@@ -1,6 +1,6 @@
-# Textpattern CMS demo site assets
+# Textpattern CMS demo content
 
-Weekend project. Back burner.
+Weekend project. Back burner. Expect turbulence.
 
 ## Images
 
@@ -15,8 +15,6 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 | File type | Category | Size | ID range | Count / (target) |
 |---|---|---|---|---|
-
-
 
 ### Raster image specifications
 
