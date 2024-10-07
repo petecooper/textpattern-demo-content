@@ -15,19 +15,31 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 | File type | Category | Size | ID range | Count / (target) |
 |---|---|---|---|---|
-| JPG | Photo | sm | 100 - 109 | – / 5 |
+| JPG | Photo | xs | 100 - 109 | – / 5 |
+| JPG | Photo | sm | 110 - 119 | – / 5 |
+| JPG | Photo | md | 120 - 129 | – / 5 |
+| JPG | Photo | lg | 130 - 139 | – / 5 |
+| JPG | Photo | xl | 140 - 149 | – / 5 |
 
 ### 1GB pack
 
 | File type | Category | Size | ID range | Count / (target) |
 |---|---|---|---|---|
-| JPG | Photo | sm | 1000 - 1049 | – / 25 |
+| JPG | Photo | xs | 1000 - 1049 | – / 25 |
+| JPG | Photo | sm | 1050 - 1099 | – / 25 |
+| JPG | Photo | md | 1100 - 1149 | – / 25 |
+| JPG | Photo | lg | 1150 - 1199 | – / 25 |
+| JPG | Photo | xl | 1200 - 1249 | – / 25 |
 
 ### 5GB pack
 
 | File type | Category | Size | ID range | Count / (target) |
 |---|---|---|---|---|
-| JPG | Photo | sm | 1000 - 1249 | – / 125 |
+| JPG | Photo | xs | 1000 - 1249 | – / 125 |
+| JPG | Photo | sm | 1250 - 1499 | – / 125 |
+| JPG | Photo | md | 1500 - 1749 | – / 125 |
+| JPG | Photo | lg | 1750 - 1999 | – / 125 |
+| JPG | Photo | xl | 2000 - 2249 | – / 125 |
 
 ### Raster image specifications
 
