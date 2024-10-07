@@ -11,11 +11,23 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
+### 200MB pack
+
+| File type | Category | Size | ID range | Count / (target) |
+|---|---|---|---|---|
+| JPG | Photo | sm | 100 - 109 | – / 5 |
+
 ### 1GB pack
 
 | File type | Category | Size | ID range | Count / (target) |
 |---|---|---|---|---|
-| JPG | Photo | sm | 1000 - 1099 | – / 25 |
+| JPG | Photo | sm | 1000 - 1049 | – / 25 |
+
+### 5GB pack
+
+| File type | Category | Size | ID range | Count / (target) |
+|---|---|---|---|---|
+| JPG | Photo | sm | 1000 - 1249 | – / 125 |
 
 ### Raster image specifications
 
