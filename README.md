@@ -11,7 +11,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
-### 200MB pack
+### The Fifty Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -21,7 +21,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | JPG | Photo | lg | 130 - 139 | – / 10 | – |
 | JPG | Photo | xl | 140 - 149 | – / 10 | – |
 
-### 1GB pack
+### The Two-Fifty Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | JPG | Photo | lg | 1150 - 1199 | – / 50 | – |
 | JPG | Photo | xl | 1200 - 1249 | – / 50 | – |
 
-### 5GB pack
+### The Twelve-Fifty Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 | JPG | Photo | lg | 1750 - 1999 | – / 250 | – |
 | JPG | Photo | xl | 2000 - 2249 | – / 250 | – |
 
-### 10GB pack
+### The Twenty-Five-Hundred Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
