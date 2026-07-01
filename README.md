@@ -17,6 +17,7 @@ Includes: GIF, JPG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
+| – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
 | – | – | sm | – | – / – | – |
 | – | – | md | – | – / – | – |
@@ -29,6 +30,7 @@ Includes: GIF, JPG, PNG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
+| – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
 | – | – | sm | – | – / – | – |
 | – | – | md | – | – / – | – |
@@ -41,6 +43,7 @@ Includes: GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
+| – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
 | – | – | sm | – | – / – | – |
 | – | – | md | – | – / – | – |
@@ -53,6 +56,7 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
+| – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
 | – | – | sm | – | – / – | – |
 | – | – | md | – | – / – | – |
@@ -65,6 +69,7 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
+| – | Vector | – | – | – / – | – |
 | – | – | xs | 1000 - 1999 | – / – | – |
 | – | – | sm | 2000 - 2999 | – / – | – |
 | – | – | md | 3000 - 3999 | – / – | – |
