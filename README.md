@@ -14,60 +14,88 @@ Source images are licensed for commercial and non-commercial use at the time of 
 ### The Tier 1 Pack
 
 Includes:
+* GIF
 * JPG
+* SVG
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | - | – / 10 | – |
-| JPG | Photo | sm | - | – / 10 | – |
-| JPG | Photo | md | - | – / 10 | – |
-| JPG | Photo | lg | - | – / 10 | – |
-| JPG | Photo | xl | - | – / 10 | – |
+| – | - | xs | - | – / - | – |
+| – | - | sm | - | – / - | – |
+| – | - | md | - | – / - | – |
+| - | - | lg | - | – / - | – |
+| - | - | xl | - | – / - | – |
 
 ### The Tier 2 Pack
 
 Includes:
+* GIF
 * JPG
 * PNG
+* SVG
 * WEBP
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | - | – / 50 | – |
-| JPG | Photo | sm | - | – / 50 | – |
-| JPG | Photo | md | - | – / 50 | – |
-| JPG | Photo | lg | - | – / 50 | – |
-| JPG | Photo | xl | - | – / 50 | – |
+| – | - | xs | - | – / - | – |
+| – | - | sm | - | – / - | – |
+| – | - | md | - | – / - | – |
+| - | - | lg | - | – / - | – |
+| - | - | xl | - | – / - | – |
 
 ### The Tier 3 Pack
 
+Includes:
+* AVIF
+* GIF
+* JPG
+* PNG
+* SVG
+* WEBP
+
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | - | – / 250 | – |
-| JPG | Photo | sm | - | – / 250 | – |
-| JPG | Photo | md | - | – / 250 | – |
-| JPG | Photo | lg | - | – / 250 | – |
-| JPG | Photo | xl | - | – / 250 | – |
+| – | - | xs | - | – / - | – |
+| – | - | sm | - | – / - | – |
+| – | - | md | - | – / - | – |
+| - | - | lg | - | – / - | – |
+| - | - | xl | - | – / - | – |
 
 ### The Tier 4 Pack
 
+Includes:
+* AVIF
+* GIF
+* JPG
+* PNG
+* SVG
+* WEBP
+
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | - | – / 500 | – |
-| JPG | Photo | sm | - | – / 500 | – |
-| JPG | Photo | md | - | – / 500 | – |
-| JPG | Photo | lg | - | – / 500 | – |
-| JPG | Photo | xl | - | – / 500 | – |
+| – | - | xs | - | – / - | – |
+| – | - | sm | - | – / - | – |
+| – | - | md | - | – / - | – |
+| - | - | lg | - | – / - | – |
+| - | - | xl | - | – / - | – |
 
 ### The Tier 5 Pack
 
+Includes:
+* AVIF
+* GIF
+* JPG
+* PNG
+* SVG
+* WEBP
+
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | - | – / 1000 | – |
-| JPG | Photo | sm | - | – / 1000 | – |
-| JPG | Photo | md | - | – / 1000 | – |
-| JPG | Photo | lg | - | – / 1000 | – |
-| JPG | Photo | xl | - | – / 1000 | – |
+| – | - | xs | - | – / - | – |
+| – | - | sm | - | – / - | – |
+| – | - | md | - | – / - | – |
+| - | - | lg | - | – / - | – |
+| - | - | xl | - | – / - | – |
 
 
 ### Raster image specifications
@@ -76,34 +104,24 @@ Includes:
 |---|---|---|---|
 | xs | base | `@1x` | 125px |
 | xs | base | `@2x` | 250px |
-| xs | base | `@3x` | 375px |
 | xs | thumbnail | `@1x` | 50px |
 | xs | thumbnail | `@2x` | 100px |
-| xs | thumbnail | `@3x` | 150px |
 | sm | base | `@1x` | 250px |
 | sm | base | `@2x` | 500px |
-| sm | base | `@3x` | 750px |
 | sm | thumbnail | `@1x` | 50px |
 | sm | thumbnail | `@2x` | 100px |
-| sm | thumbnail | `@3x` | 150px |
 | md | base | `@1x` | 500px |
 | md | base | `@2x` | 1000px |
-| md | base | `@3x` | 1500px |
 | md | thumbnail | `@1x` | 100px |
 | md | thumbnail | `@2x` | 200px |
-| md | thumbnail | `@3x` | 300px |
 | lg | base | `@1x` | 1000px |
 | lg | base | `@2x` | 2000px |
-| lg | base | `@3x` | 3000px |
 | lg | thumbnail | `@1x` | 200px |
 | lg | thumbnail | `@2x` | 400px |
-| lg | thumbnail | `@3x` | 600px |
 | xl | base | `@1x` | 2000px |
 | xl | base | `@2x` | 4000px |
-| xl | base | `@3x` | 6000px |
 | xl | thumbnail | `@1x` | 400px |
 | xl | thumbnail | `@2x` | 800px |
-| xl | thumbnail | `@3x` | 1200px |
 
 ### Toolkit
 
