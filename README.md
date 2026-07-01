@@ -1,6 +1,10 @@
 # Textpattern CMS demo content
 
-Weekend project. Back burner. Expect turbulence.
+Work occasionally in progress.
+
+Weekend project. Low priority.
+
+Expect turbulence.
 
 ## Images
 
@@ -74,7 +78,8 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 | – | – | sm | 3000 - 3999 | – / – | – |
 | – | – | md | 4000 - 4999 | – / – | – |
 | – | – | lg | 5000 - 5999 | – / – | – |
-| JPG | Photo | xl | 6000 - 6999 | – / – | – |
+| JPG | Photo | xl | 6000 - 6499 | – / – | – |
+| PNG | Illustration | xl | 6500 - 6999 | – / – | – |
 
 
 ### Raster image specifications
