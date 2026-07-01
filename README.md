@@ -15,7 +15,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 Includes: GIF, JPG and SVG.
 
-| File type | Category | Size | ID range | Count / target | Usage |
+| File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
 | – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
@@ -28,7 +28,7 @@ Includes: GIF, JPG and SVG.
 
 Includes: GIF, JPG, PNG and SVG.
 
-| File type | Category | Size | ID range | Count / target | Usage |
+| File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
 | – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
@@ -41,7 +41,7 @@ Includes: GIF, JPG, PNG and SVG.
 
 Includes: GIF, JPG, PNG, SVG and WEBP.
 
-| File type | Category | Size | ID range | Count / target | Usage |
+| File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
 | – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
@@ -54,7 +54,7 @@ Includes: GIF, JPG, PNG, SVG and WEBP.
 
 Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
-| File type | Category | Size | ID range | Count / target | Usage |
+| File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
 | – | Vector | – | – | – / – | – |
 | – | – | xs | – | – / – | – |
@@ -67,7 +67,7 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
-| File type | Category | Size | ID range | Count / target | Usage |
+| File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
 | – | Vector | 1000 - 1999 | – | – / – | – |
 | – | – | xs | 2000 - 2999 | – / – | – |
