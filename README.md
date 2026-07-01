@@ -13,53 +13,61 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### The Tier 1 Pack
 
+Includes:
+* JPG
+
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1009 | – / 10 | – |
-| JPG | Photo | sm | 2000 - 2009 | – / 10 | – |
-| JPG | Photo | md | 3000 - 3009 | – / 10 | – |
-| JPG | Photo | lg | 4000 - 4009 | – / 10 | – |
-| JPG | Photo | xl | 5000 - 5009 | – / 10 | – |
+| JPG | Photo | xs | - | – / 10 | – |
+| JPG | Photo | sm | - | – / 10 | – |
+| JPG | Photo | md | - | – / 10 | – |
+| JPG | Photo | lg | - | – / 10 | – |
+| JPG | Photo | xl | - | – / 10 | – |
 
 ### The Tier 2 Pack
 
+Includes:
+* JPG
+* PNG
+* WEBP
+
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1049 | – / 50 | – |
-| JPG | Photo | sm | 1050 - 1099 | – / 50 | – |
-| JPG | Photo | md | 1100 - 1149 | – / 50 | – |
-| JPG | Photo | lg | 1150 - 1199 | – / 50 | – |
-| JPG | Photo | xl | 1200 - 1249 | – / 50 | – |
+| JPG | Photo | xs | - | – / 50 | – |
+| JPG | Photo | sm | - | – / 50 | – |
+| JPG | Photo | md | - | – / 50 | – |
+| JPG | Photo | lg | - | – / 50 | – |
+| JPG | Photo | xl | - | – / 50 | – |
 
 ### The Tier 3 Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1249 | – / 250 | – |
-| JPG | Photo | sm | 2000 - 2249 | – / 250 | – |
-| JPG | Photo | md | 3000 - 3249 | – / 250 | – |
-| JPG | Photo | lg | 4000 - 4299 | – / 250 | – |
-| JPG | Photo | xl | 5000 - 5249 | – / 250 | – |
+| JPG | Photo | xs | - | – / 250 | – |
+| JPG | Photo | sm | - | – / 250 | – |
+| JPG | Photo | md | - | – / 250 | – |
+| JPG | Photo | lg | - | – / 250 | – |
+| JPG | Photo | xl | - | – / 250 | – |
 
 ### The Tier 4 Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1499 | – / 500 | – |
-| JPG | Photo | sm | 2000 - 2499 | – / 500 | – |
-| JPG | Photo | md | 3000 - 3499 | – / 500 | – |
-| JPG | Photo | lg | 4000 - 4499 | – / 500 | – |
-| JPG | Photo | xl | 5000 - 5499 | – / 500 | – |
+| JPG | Photo | xs | - | – / 500 | – |
+| JPG | Photo | sm | - | – / 500 | – |
+| JPG | Photo | md | - | – / 500 | – |
+| JPG | Photo | lg | - | – / 500 | – |
+| JPG | Photo | xl | - | – / 500 | – |
 
 ### The Tier 5 Pack
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| JPG | Photo | xs | 1000 - 1999 | – / 1000 | – |
-| JPG | Photo | sm | 2000 - 2999 | – / 1000 | – |
-| JPG | Photo | md | 3000 - 3999 | – / 1000 | – |
-| JPG | Photo | lg | 4000 - 4999 | – / 1000 | – |
-| JPG | Photo | xl | 5000 - 5999 | – / 1000 | – |
+| JPG | Photo | xs | - | – / 1000 | – |
+| JPG | Photo | sm | - | – / 1000 | – |
+| JPG | Photo | md | - | – / 1000 | – |
+| JPG | Photo | lg | - | – / 1000 | – |
+| JPG | Photo | xl | - | – / 1000 | – |
 
 
 ### Raster image specifications
