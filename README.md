@@ -17,11 +17,11 @@ Includes: GIF, JPG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | - | xs | - | – / - | – |
-| – | - | sm | - | – / - | – |
-| – | - | md | - | – / - | – |
-| - | - | lg | - | – / - | – |
-| - | - | xl | - | – / - | – |
+| – | – | xs | – | – / – | – |
+| – | – | sm | – | – / – | – |
+| – | – | md | – | – / – | – |
+| – | – | lg | – | – / – | – |
+| – | – | xl | – | – / – | – |
 
 ### The Tier 2 Pack
 
@@ -29,11 +29,11 @@ Includes: GIF, JPG, PNG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | - | xs | - | – / - | – |
-| – | - | sm | - | – / - | – |
-| – | - | md | - | – / - | – |
-| - | - | lg | - | – / - | – |
-| - | - | xl | - | – / - | – |
+| – | – | xs | – | – / – | – |
+| – | – | sm | – | – / – | – |
+| – | – | md | – | – / – | – |
+| – | – | lg | – | – / – | – |
+| – | – | xl | – | – / – | – |
 
 ### The Tier 3 Pack
 
@@ -41,11 +41,11 @@ Includes: GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | - | xs | - | – / - | – |
-| – | - | sm | - | – / - | – |
-| – | - | md | - | – / - | – |
-| - | - | lg | - | – / - | – |
-| - | - | xl | - | – / - | – |
+| – | – | xs | – | – / – | – |
+| – | – | sm | – | – / – | – |
+| – | – | md | – | – / – | – |
+| – | – | lg | – | – / – | – |
+| – | – | xl | – | – / – | – |
 
 ### The Tier 4 Pack
 
@@ -53,11 +53,11 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | - | xs | - | – / - | – |
-| – | - | sm | - | – / - | – |
-| – | - | md | - | – / - | – |
-| - | - | lg | - | – / - | – |
-| - | - | xl | - | – / - | – |
+| – | – | xs | – | – / – | – |
+| – | – | sm | – | – / – | – |
+| – | – | md | – | – / – | – |
+| – | – | lg | – | – / – | – |
+| – | – | xl | – | – / – | – |
 
 ### The Tier 5 Pack
 
@@ -65,11 +65,11 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | - | xs | - | – / - | – |
-| – | - | sm | - | – / - | – |
-| – | - | md | - | – / - | – |
-| - | - | lg | - | – / - | – |
-| - | - | xl | - | – / - | – |
+| – | – | xs | – | – / – | – |
+| – | – | sm | – | – / – | – |
+| – | – | md | – | – / – | – |
+| – | – | lg | – | – / – | – |
+| – | – | xl | – | – / – | – |
 
 
 ### Raster image specifications
