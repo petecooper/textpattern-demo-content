@@ -11,7 +11,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 * [Pixabay](https://pixabay.com) ([license](https://pixabay.com/service/terms/#license))
 * [Unsplash](https://unsplash.com) ([license](https://unsplash.com/license))
 
-### The Tier 1 Pack
+### The Tier 1 Pack (max 100MB)
 
 Includes: GIF, JPG and SVG.
 
@@ -23,7 +23,7 @@ Includes: GIF, JPG and SVG.
 | – | – | lg | – | – / – | – |
 | – | – | xl | – | – / – | – |
 
-### The Tier 2 Pack
+### The Tier 2 Pack (max 250MB)
 
 Includes: GIF, JPG, PNG and SVG.
 
@@ -35,7 +35,7 @@ Includes: GIF, JPG, PNG and SVG.
 | – | – | lg | – | – / – | – |
 | – | – | xl | – | – / – | – |
 
-### The Tier 3 Pack
+### The Tier 3 Pack (max 500MB)
 
 Includes: GIF, JPG, PNG, SVG and WEBP.
 
@@ -47,7 +47,7 @@ Includes: GIF, JPG, PNG, SVG and WEBP.
 | – | – | lg | – | – / – | – |
 | – | – | xl | – | – / – | – |
 
-### The Tier 4 Pack
+### The Tier 4 Pack (max 1GB)
 
 Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
@@ -59,17 +59,17 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 | – | – | lg | – | – / – | – |
 | – | – | xl | – | – / – | – |
 
-### The Tier 5 Pack
+### The Tier 5 Pack (max 2GB)
 
 Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | – | xs | – | – / – | – |
-| – | – | sm | – | – / – | – |
-| – | – | md | – | – / – | – |
-| – | – | lg | – | – / – | – |
-| – | – | xl | – | – / – | – |
+| – | – | xs | 1000 - 1999 | – / – | – |
+| – | – | sm | 2000 - 2999 | – / – | – |
+| – | – | md | 3000 - 3999 | – / – | – |
+| – | – | lg | 4000 - 4999 | – / – | – |
+| JPG | Photo | xl | 5000 - 5999 | – / – | – |
 
 
 ### Raster image specifications
