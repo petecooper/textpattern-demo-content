@@ -69,12 +69,12 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
-| – | Vector | – | – | – / – | – |
-| – | – | xs | 1000 - 1999 | – / – | – |
-| – | – | sm | 2000 - 2999 | – / – | – |
-| – | – | md | 3000 - 3999 | – / – | – |
-| – | – | lg | 4000 - 4999 | – / – | – |
-| JPG | Photo | xl | 5000 - 5999 | – / – | – |
+| – | Vector | 1000 - 1999 | – | – / – | – |
+| – | – | xs | 2000 - 2999 | – / – | – |
+| – | – | sm | 3000 - 3999 | – / – | – |
+| – | – | md | 4000 - 4999 | – / – | – |
+| – | – | lg | 5000 - 5999 | – / – | – |
+| JPG | Photo | xl | 6000 - 6999 | – / – | – |
 
 
 ### Raster image specifications
