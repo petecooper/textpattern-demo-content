@@ -13,10 +13,7 @@ Source images are licensed for commercial and non-commercial use at the time of 
 
 ### The Tier 1 Pack
 
-Includes:
-* GIF
-* JPG
-* SVG
+Includes: GIF, JPG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -28,12 +25,7 @@ Includes:
 
 ### The Tier 2 Pack
 
-Includes:
-* GIF
-* JPG
-* PNG
-* SVG
-* WEBP
+Includes: GIF, JPG, PNG and SVG.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -45,13 +37,7 @@ Includes:
 
 ### The Tier 3 Pack
 
-Includes:
-* AVIF
-* GIF
-* JPG
-* PNG
-* SVG
-* WEBP
+Includes: GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -63,13 +49,7 @@ Includes:
 
 ### The Tier 4 Pack
 
-Includes:
-* AVIF
-* GIF
-* JPG
-* PNG
-* SVG
-* WEBP
+Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
@@ -81,13 +61,7 @@ Includes:
 
 ### The Tier 5 Pack
 
-Includes:
-* AVIF
-* GIF
-* JPG
-* PNG
-* SVG
-* WEBP
+Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File type | Category | Size | ID range | Count / target | Usage |
 |---|---|---|---|---|---|
