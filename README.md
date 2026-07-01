@@ -69,7 +69,7 @@ Includes: AVIF, GIF, JPG, PNG, SVG and WEBP.
 
 | File Type | Category | Size | ID Range | Count / Target | Used / Allocated |
 |---|---|---|---|---|---|
-| – | Vector | 1000 - 1999 | – | – / – | – |
+| – | Vector | – | 1000 - 1999 | – / – | – |
 | – | – | xs | 2000 - 2999 | – / – | – |
 | – | – | sm | 3000 - 3999 | – / – | – |
 | – | – | md | 4000 - 4999 | – / – | – |
